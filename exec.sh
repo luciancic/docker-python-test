@@ -1,0 +1,1 @@
+gunicorn gpg_app
